@@ -1,0 +1,9 @@
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Model\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.deps.json
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Model\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Model\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.csproj.CoreCompileInputs.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Model\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.AssemblyInfoInputs.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Model\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.AssemblyInfo.cs
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Model\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Model\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Model\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Model\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.csprojAssemblyReference.cache

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigDataTeknolojiWebApp", "BigDataTeknolojiWebApp\BigDataTeknolojiWebApp.csproj", "{AE5D1032-DC64-4F32-9BA4-648A5469ECD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigDataTeknoloji.Business.Services", "BigDataTeknoloji.Business.Services\BigDataTeknoloji.Business.Services.csproj", "{059A6B11-6C24-4327-87B8-78528C51AA31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigDataTeknoloji.Business.Model", "BigDataTeknoloji.Business.Model\BigDataTeknoloji.Business.Model.csproj", "{79C60161-2C7B-4A89-917C-DFE94049EE4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigDataTeknolojiData.Repository", "BigDataTeknolojiData.Repository\BigDataTeknolojiData.Repository.csproj", "{2EC3B325-5C18-424E-B2BD-D65A29E14261}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigDataTeknoloji.Data.Entity", "BigDataTeknoloji.Data.Entity\BigDataTeknoloji.Data.Entity.csproj", "{953BE506-D9DB-4091-8CB4-524293D3D653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDataTeknoloji.MonitoringAPP", "BigDataTeknoloji.MonitoringAPP\BigDataTeknoloji.MonitoringAPP.csproj", "{5DA30EAC-4DDF-4E37-8947-8F850939DA79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE5D1032-DC64-4F32-9BA4-648A5469ECD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5D1032-DC64-4F32-9BA4-648A5469ECD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5D1032-DC64-4F32-9BA4-648A5469ECD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5D1032-DC64-4F32-9BA4-648A5469ECD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059A6B11-6C24-4327-87B8-78528C51AA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059A6B11-6C24-4327-87B8-78528C51AA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059A6B11-6C24-4327-87B8-78528C51AA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059A6B11-6C24-4327-87B8-78528C51AA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C60161-2C7B-4A89-917C-DFE94049EE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C60161-2C7B-4A89-917C-DFE94049EE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C60161-2C7B-4A89-917C-DFE94049EE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C60161-2C7B-4A89-917C-DFE94049EE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC3B325-5C18-424E-B2BD-D65A29E14261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC3B325-5C18-424E-B2BD-D65A29E14261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC3B325-5C18-424E-B2BD-D65A29E14261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC3B325-5C18-424E-B2BD-D65A29E14261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953BE506-D9DB-4091-8CB4-524293D3D653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953BE506-D9DB-4091-8CB4-524293D3D653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953BE506-D9DB-4091-8CB4-524293D3D653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953BE506-D9DB-4091-8CB4-524293D3D653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA30EAC-4DDF-4E37-8947-8F850939DA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA30EAC-4DDF-4E37-8947-8F850939DA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA30EAC-4DDF-4E37-8947-8F850939DA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA30EAC-4DDF-4E37-8947-8F850939DA79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA2EB1C-A185-43FA-A190-7C6E2EC42427}
+	EndGlobalSection
+EndGlobal

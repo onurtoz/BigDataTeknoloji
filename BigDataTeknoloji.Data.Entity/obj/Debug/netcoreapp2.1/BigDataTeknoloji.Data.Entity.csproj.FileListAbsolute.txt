@@ -1,0 +1,11 @@
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.deps.json
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.csproj.CoreCompileInputs.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.AssemblyInfoInputs.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.AssemblyInfo.cs
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.runtimeconfig.json
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.runtimeconfig.dev.json
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Data.Entity\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.csprojAssemblyReference.cache

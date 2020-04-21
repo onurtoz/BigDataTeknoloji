@@ -1,0 +1,12 @@
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\obj\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.csprojAssemblyReference.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\obj\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.csproj.CoreCompileInputs.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\obj\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.AssemblyInfoInputs.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\obj\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.AssemblyInfo.cs
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\bin\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.deps.json
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\bin\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\bin\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\bin\Release\netcoreapp2.1\BigDataTeknoloji.Data.Entity.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\bin\Release\netcoreapp2.1\BigDataTeknoloji.Data.Entity.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\obj\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.csproj.CopyComplete
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\obj\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknolojiData.Repository\obj\Release\netcoreapp2.1\BigDataTeknolojiData.Repository.pdb

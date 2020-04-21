@@ -1,0 +1,16 @@
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.deps.json
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.csproj.CoreCompileInputs.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.AssemblyInfoInputs.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.AssemblyInfo.cs
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.csprojAssemblyReference.cache
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Model.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.csproj.CopyComplete
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\obj\Debug\netcoreapp2.1\BigDataTeknoloji.Business.Services.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\bin\Debug\netcoreapp2.1\BigDataTeknolojiData.Repository.dll
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\bin\Debug\netcoreapp2.1\BigDataTeknolojiData.Repository.pdb
+C:\BigDataTeknolojiV1\BigDataTeknolojiCallenge\BigDataTeknoloji.Business.Services\bin\Debug\netcoreapp2.1\BigDataTeknoloji.Data.Entity.pdb
